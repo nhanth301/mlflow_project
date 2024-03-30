@@ -1,0 +1,12 @@
+creation_timestamp: 1711783203570
+current_stage: None
+description: null
+last_updated_timestamp: 1711783203570
+name: registered_model
+run_id: null
+run_link: null
+source: runs:/afe66bb88ef14c47a201d7ef2454d372/model
+status: READY
+status_message: null
+user_id: null
+version: 3

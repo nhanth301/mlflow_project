@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thnhan/Documents/GIT/end2end/mlflow_project/mlruns/864061747300388563/09db7b880111495181346e72b54e78bd/artifacts
+end_time: 1711783127641
+entry_point_name: ''
+experiment_id: '864061747300388563'
+lifecycle_stage: active
+run_id: 09db7b880111495181346e72b54e78bd
+run_name: training_classifier
+run_uuid: 09db7b880111495181346e72b54e78bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711783125068
+status: 3
+tags: []
+user_id: thnhan
