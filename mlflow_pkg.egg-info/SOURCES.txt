@@ -1,7 +1,0 @@
-mlflow_pkg.egg-info/PKG-INFO
-mlflow_pkg.egg-info/SOURCES.txt
-mlflow_pkg.egg-info/dependency_links.txt
-mlflow_pkg.egg-info/requires.txt
-mlflow_pkg.egg-info/top_level.txt
-package/feature/data_processing.py
-package/ml_training/training.py
